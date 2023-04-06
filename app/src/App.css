@@ -1,0 +1,50 @@
+body{
+  background-color: #111827;
+  color: white;
+  height: 100%;
+}
+
+section{
+  position: absolute;
+  left:50%;
+  transform: translate(-50%);
+}
+
+img{
+  border-radius: 5px;
+
+}
+
+.content{
+  margin: 30px 0;
+  border-radius: 5px;
+}
+
+
+button{
+  padding:15px 36px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  margin-right: 6px;
+}  
+
+.primary{
+  background-color: green;
+}
+
+.secondary{
+  background-color: red;
+  color:whitesmoke;
+}
+
+input{
+  border:none;
+  padding: 15px 2px;
+  margin-right: 10px;
+  border-radius: 5px;
+  margin-bottom: 2%;
+  
+
+}
+
